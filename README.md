@@ -7,3 +7,4 @@ This Dashboard is related to the snapchat ads targeting Dataset , It shows:
 4 - Who is paying to target?
 5 - Should we be concerned? 
 
+![Are Snapchat ads targeting you](https://user-images.githubusercontent.com/67325828/137753921-9c4da986-c9eb-4a44-b7e3-00d47d84f9cb.PNG)
